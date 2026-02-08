@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "裏表ガール",
+  "base_artist": "花譜",
+  "createdAt": "2026-02-08T11:57:24.398113Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "裏表ガール",
+      "artist": "花譜",
+      "has_synced": false,
+      "path": "select/pl_01_裏表ガール_花譜.txt"
+    }
+  ]
+}
